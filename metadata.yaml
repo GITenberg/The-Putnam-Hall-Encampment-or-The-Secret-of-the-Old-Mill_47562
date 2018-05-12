@@ -1,9 +1,13 @@
 _repo: The-Putnam-Hall-Encampment-or-The-Secret-of-the-Old-Mill_47562
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Nuttall, Charles
     gutenberg_agent_id: '39751'
     url: http://www.gutenberg.org/2009/agents/39751
+covers:
+- cover_type: archival
+  image_path: 47562-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47562#The-Putnam-Hall-Encampment-or-The-Secret-of-the-Old-Mill
 gutenberg_issued: '2014-12-07'
 gutenberg_type: Text
 identifiers:
